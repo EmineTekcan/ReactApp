@@ -1,7 +1,139 @@
-.App {
+.float1{
+  margin-left: 10px;
+  float: left;
+}
+.float{
+  float:left;
+  margin-left: 150px;
   text-align: center;
 }
+.nav{
+  background-image: url('C:\Users\emine\Desktop\WebProject\reactapp\src\images\back.jpg');
+}
+#bingotable {
+  margin:auto;
+  text-align: center;
+  width: 480px;
+  height: 60px;
+  border-collapse: collapse;
+  background: white;
+}
+#square10{
+  background-color: #9b59b6;
+}
+#square11{
+  background-color: #ff2471;
+}
+#square12{
+  background-color: rgb(34, 83, 246);
+}
+#square13{
+  background-color: yellowgreen;
+}
+#square14{
+  background-color:rgb(255, 82, 51);
+}
+#square15{
+  background-color: #61dafb;
+}
+#square16{
+  background-color: #ff2471;
+}
+#square17{
+  background-color: #d7ff25;
+}
+#square20{
+  background-color: #9b59b6;
+}
+#square21{
+  background-color: #ff2471;
+}
+#square22{
+  background-color: rgb(34, 83, 246);
+}
+#square23{
+  background-color: yellowgreen;
+}
+#square24{
+  background-color:rgb(255, 82, 51);
+}
+#square25{
+  background-color: #61dafb;
+}
+#square26{
+  background-color: #ff2471;
+}
+#square27{
+  background-color: #ddfd29;
+}
+#control{
+  color: rgb(123, 123, 244);
+  font-size: 30px;
+}
+th, td {
+  font-family: Helvetica;
+  margin:auto;
+  text-align: center;
+  border: 3px solid black;
+  width: 10%;
+}
 
+.d-grid{
+  text-align: center;
+  margin: auto;
+}
+.pl{
+  text-align: center;
+}
+.about{
+  background-color: rgb(255, 255, 255);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  height: 680px;
+  margin-left: 30px;
+}
+
+.about p{
+  font-size: 20px;
+}
+.carousel{
+  margin-left: 20px;
+}
+.carousel img{
+  height: 700px;
+}
+.cart1{
+  margin-left: 20px;
+}
+
+.cart button{
+  background-color:rgb(154, 151, 147);
+  color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+ font-size: 20px;
+ border-color: rgb(94, 74, 78);
+}
+.cart2 button{
+  background-color:rgb(154, 151, 147);
+  color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+ font-size: 20px;
+ border-color: rgb(94, 74, 78);
+}
+.cart {
+  width:280px;
+  height:500px;
+  font-family:'Courier New', Courier, monospace;
+}
+.cart2 {
+  width:280px;
+  height:500px;
+
+  font-family:'Courier New', Courier, monospace;
+}
+.float-l {
+  float:left;
+  margin-left: 15px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
